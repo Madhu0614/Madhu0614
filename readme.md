@@ -3,7 +3,7 @@
 ###
 
 <h4 align="left">
-  I'm <strong>Nihal Yadav</strong> — a Full Stack Developer 🚀<br>
+  I'm <strong>Kotla Madhu</strong> — a Web Developer 🚀<br>
   Welcome to my GitHub profile!<br>
   Dive into my projects, explore some code, and feel free to connect.<br>
   Let’s build something awesome together!
@@ -101,5 +101,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vashu2003/Vashu2003/blob/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://github.com/Vashu2003/Vashu2003/blob/output/ocean.gif" />
 </picture>
+
 
 
