@@ -73,13 +73,13 @@
 <h3 align="left">📫 Connect with me</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nihal-yadav-" target="_blank">
+  <a href="https://www.linkedin.com/in/kotla-madhu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=varunbb30@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=djmadhu06@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="https://www.instagram.com/not__nihal_" target="_blank">
+  <a href="https://www.instagram.com/_madhu_0601" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
@@ -108,3 +108,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vashu2003/Vashu2003/blob/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://github.com/Vashu2003/Vashu2003/blob/output/ocean.gif" />
 </picture>
+
